@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./common/string_utility.h
+string
+-
+vector
+-
+assert.h
+-
+
+/home/zaleilynn/workspace/cello/src/common/string_utility_test.cpp
+gtest/gtest.h
+-
+common/string_utility.h
+/home/zaleilynn/workspace/cello/src/common/common/string_utility.h
+

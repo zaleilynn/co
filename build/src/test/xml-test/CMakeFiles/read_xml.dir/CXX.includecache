@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zaleilynn/workspace/cello/src/test/xml-test/read_xml.cpp
+iostream
+-
+string
+-
+stdlib.h
+-
+xercesc/util/PlatformUtils.hpp
+/home/zaleilynn/workspace/cello/src/test/xml-test/xercesc/util/PlatformUtils.hpp
+xercesc/dom/DOMDocument.hpp
+/home/zaleilynn/workspace/cello/src/test/xml-test/xercesc/dom/DOMDocument.hpp
+xercesc/dom/DOMNode.hpp
+/home/zaleilynn/workspace/cello/src/test/xml-test/xercesc/dom/DOMNode.hpp
+xercesc/dom/DOMNodeList.hpp
+/home/zaleilynn/workspace/cello/src/test/xml-test/xercesc/dom/DOMNodeList.hpp
+xercesc/parsers/XercesDOMParser.hpp
+/home/zaleilynn/workspace/cello/src/test/xml-test/xercesc/parsers/XercesDOMParser.hpp
+xercesc/util/XMLString.hpp
+/home/zaleilynn/workspace/cello/src/test/xml-test/xercesc/util/XMLString.hpp
+

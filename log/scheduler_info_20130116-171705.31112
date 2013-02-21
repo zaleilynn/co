@@ -1,0 +1,4 @@
+Log file created at: 2013/01/16 17:17:05
+Running on machine: zaleilynn-VPCEG36EC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0116 17:17:05.720337 31122 scheduler_service.cpp:65] add framework:

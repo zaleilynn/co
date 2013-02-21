@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wno-deprecated -DHAVE_NETINET_IN_H -g    CMakeFiles/message_queue_test.dir/message_queue_test.cpp.o CMakeFiles/message_queue_test.dir/message_queue.cpp.o  -o message_queue_test -rdynamic -L/usr/lib/jvm/java-6-sun/jre/lib/amd64/server -lgtest -lglog -lpthread -Wl,-rpath,/usr/lib/jvm/java-6-sun/jre/lib/amd64/server: 

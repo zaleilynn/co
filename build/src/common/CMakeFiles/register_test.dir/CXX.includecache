@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./common/mutex.h
+pthread.h
+-
+errno.h
+-
+string.h
+-
+string
+-
+stdexcept
+-
+
+../src/./common/register.h
+string
+-
+map
+-
+common/singleton.h
+../src/./common/common/singleton.h
+
+../src/./common/singleton.h
+common/mutex.h
+../src/./common/common/mutex.h
+
+/home/zaleilynn/workspace/cello/src/common/register.cpp
+common/register.h
+/home/zaleilynn/workspace/cello/src/common/common/register.h
+
+/home/zaleilynn/workspace/cello/src/common/register_test.cpp
+gtest/gtest.h
+-
+iostream
+-
+common/register.h
+/home/zaleilynn/workspace/cello/src/common/common/register.h
+

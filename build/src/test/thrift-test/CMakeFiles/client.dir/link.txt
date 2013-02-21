@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -Wno-deprecated -DHAVE_NETINET_IN_H -g    CMakeFiles/client.dir/client.cpp.o CMakeFiles/client.dir/gen-cpp/Echo.cpp.o CMakeFiles/client.dir/gen-cpp/echo_constants.cpp.o CMakeFiles/client.dir/gen-cpp/echo_types.cpp.o  -o client -rdynamic -L/usr/lib/jvm/java-6-sun/jre/lib/amd64/server -lglog -lthrift -Wl,-rpath,/usr/lib/jvm/java-6-sun/jre/lib/amd64/server: 

@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./proxy/scheduler/gen-cpp/scheduler_types.h
+thrift/Thrift.h
+-
+thrift/TApplicationException.h
+-
+thrift/protocol/TProtocol.h
+-
+thrift/transport/TTransport.h
+-
+
+../src/./proxy/scheduler_wrapper.h
+string
+-
+proxy/scheduler/gen-cpp/scheduler_types.h
+../src/./proxy/proxy/scheduler/gen-cpp/scheduler_types.h
+
+/home/zaleilynn/workspace/cello/src/proxy/scheduler_wrapper.cpp
+iostream
+-
+glog/logging.h
+-
+proxy/scheduler_wrapper.h
+/home/zaleilynn/workspace/cello/src/proxy/proxy/scheduler_wrapper.h
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./common/get_ip.h
+sys/types.h
+-
+sys/socket.h
+-
+sys/ioctl.h
+-
+arpa/inet.h
+-
+net/if.h
+-
+unistd.h
+-
+netdb.h
+-
+string
+-
+errno.h
+-
+glog/logging.h
+-
+
+/home/zaleilynn/workspace/cello/src/common/get_ip_test.cpp
+gtest/gtest.h
+-
+common/get_ip.h
+/home/zaleilynn/workspace/cello/src/common/common/get_ip.h
+

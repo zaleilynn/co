@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./common/pool.h
+map
+-
+tr1/memory
+-
+tr1/functional
+-
+common/rwlock.h
+../src/./common/common/rwlock.h
+
+../src/./common/rwlock.h
+pthread.h
+-
+errno.h
+-
+string.h
+-
+string
+-
+stdexcept
+-
+
+/home/zaleilynn/workspace/cello/src/common/pool_test.cpp
+gtest/gtest.h
+-
+common/pool.h
+/home/zaleilynn/workspace/cello/src/common/common/pool.h
+

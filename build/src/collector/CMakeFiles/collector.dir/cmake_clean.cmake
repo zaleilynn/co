@@ -1,0 +1,42 @@
+FILE(REMOVE_RECURSE
+  "CMakeFiles/collector.dir/__/proxy/collector/gen-cpp/collector_constants.cpp.o"
+  "CMakeFiles/collector.dir/__/proxy/collector/gen-cpp/Collector.cpp.o"
+  "CMakeFiles/collector.dir/__/proxy/collector/gen-cpp/collector_types.cpp.o"
+  "CMakeFiles/collector.dir/__/proxy/scheduler/gen-cpp/scheduler_constants.cpp.o"
+  "CMakeFiles/collector.dir/__/proxy/scheduler/gen-cpp/Scheduler.cpp.o"
+  "CMakeFiles/collector.dir/__/proxy/scheduler/gen-cpp/scheduler_types.cpp.o"
+  "CMakeFiles/collector.dir/__/common/cond.cpp.o"
+  "CMakeFiles/collector.dir/__/common/thread.cpp.o"
+  "CMakeFiles/collector.dir/__/common/policy.cpp.o"
+  "CMakeFiles/collector.dir/__/common/xml_handler.cpp.o"
+  "CMakeFiles/collector.dir/__/proxy/collector_wrapper.cpp.o"
+  "CMakeFiles/collector.dir/machine_pool.cpp.o"
+  "CMakeFiles/collector.dir/machine.cpp.o"
+  "CMakeFiles/collector.dir/monitor.cpp.o"
+  "CMakeFiles/collector.dir/framework.cpp.o"
+  "CMakeFiles/collector.dir/trigger.cpp.o"
+  "CMakeFiles/collector.dir/trigger_queue.cpp.o"
+  "CMakeFiles/collector.dir/collector_service.cpp.o"
+  "CMakeFiles/collector.dir/framework_in_machine.cpp.o"
+  "CMakeFiles/collector.dir/executor_in_machine.cpp.o"
+  "CMakeFiles/collector.dir/collector.cpp.o"
+  "../../../src/proxy/collector/gen-cpp/collector_constants.cpp"
+  "../../../src/proxy/collector/gen-cpp/Collector.h"
+  "../../../src/proxy/collector/gen-cpp/collector_types.h"
+  "../../../src/proxy/collector/gen-cpp/collector_constants.h"
+  "../../../src/proxy/collector/gen-cpp/Collector.cpp"
+  "../../../src/proxy/collector/gen-cpp/collector_types.cpp"
+  "../../../src/proxy/scheduler/gen-cpp/scheduler_constants.cpp"
+  "../../../src/proxy/scheduler/gen-cpp/Scheduler.h"
+  "../../../src/proxy/scheduler/gen-cpp/scheduler_types.h"
+  "../../../src/proxy/scheduler/gen-cpp/scheduler_constants.h"
+  "../../../src/proxy/scheduler/gen-cpp/Scheduler.cpp"
+  "../../../src/proxy/scheduler/gen-cpp/scheduler_types.cpp"
+  "collector.pdb"
+  "collector"
+)
+
+# Per-language clean rules from dependency scanning.
+FOREACH(lang CXX)
+  INCLUDE(CMakeFiles/collector.dir/cmake_clean_${lang}.cmake OPTIONAL)
+ENDFOREACH(lang)

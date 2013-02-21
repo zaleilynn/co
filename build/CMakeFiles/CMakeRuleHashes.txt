@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+e0afe6907b0b33cdab3c981325e4f716 ../src/proxy/cellet/gen-cpp/cellet_constants.cpp
+1fb7c3ba901d66994eedd3ed95b71ba1 ../src/proxy/collector/gen-cpp/collector_constants.cpp
+e3abf2022697be1ba49ac0ac68b4a0d5 ../src/proxy/scheduler/gen-cpp/scheduler_constants.cpp

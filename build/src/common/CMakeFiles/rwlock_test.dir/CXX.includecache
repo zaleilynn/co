@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./common/rwlock.h
+pthread.h
+-
+errno.h
+-
+string.h
+-
+string
+-
+stdexcept
+-
+
+/home/zaleilynn/workspace/cello/src/common/rwlock_test.cpp
+common/rwlock.h
+/home/zaleilynn/workspace/cello/src/common/common/rwlock.h
+gtest/gtest.h
+-
+

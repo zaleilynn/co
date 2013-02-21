@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/./common/mutex.h
+pthread.h
+-
+errno.h
+-
+string.h
+-
+string
+-
+stdexcept
+-
+
+/home/zaleilynn/workspace/cello/src/common/mutex_test.cpp
+common/mutex.h
+/home/zaleilynn/workspace/cello/src/common/common/mutex.h
+gtest/gtest.h
+-
+

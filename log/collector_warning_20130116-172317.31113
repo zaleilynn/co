@@ -1,0 +1,349 @@
+Log file created at: 2013/01/16 17:23:17
+Running on machine: zaleilynn-VPCEG36EC
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0116 17:23:17.122867 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:17.122989 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:19.178586 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:19.178612 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:21.236958 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:21.236979 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:23.300791 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:23.300824 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:25.376842 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:25.376903 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:27.433569 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:27.433598 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:29.488281 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:29.488340 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:31.555114 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:31.555172 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:33.623637 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:33.623697 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:35.696887 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:35.696909 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:37.750287 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:37.750313 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:39.814043 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:39.814071 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:41.870563 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:41.870622 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:43.942586 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:43.942608 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:45.998559 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:45.998585 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:48.053220 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:48.053251 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:50.105662 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:50.105685 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:52.217326 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:52.217355 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:54.269395 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:54.269423 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:56.327620 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:56.327648 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:23:58.392966 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:23:58.393028 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:00.449358 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:00.449556 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:02.520783 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:02.520902 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:04.595592 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:04.595707 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:06.668792 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:06.668920 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:08.781280 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:08.781322 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:10.837412 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:10.837461 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:12.890728 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:12.890782 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:14.962234 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:14.962357 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:17.011523 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:17.011577 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:19.063871 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:19.063931 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:21.121000 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:21.121070 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:23.176691 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:23.176748 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:25.231977 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:25.232043 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:27.280211 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:27.280254 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:29.332929 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:29.332984 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:31.430233 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:31.430354 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:33.486573 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:33.486701 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:35.537371 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:35.537415 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:37.597652 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:37.597715 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:39.653309 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:39.653369 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:41.757057 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:41.757099 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:43.821202 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:43.821245 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:45.869487 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:45.869637 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:47.920565 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:47.920619 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:49.978647 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:49.978762 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:52.035073 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:52.035145 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:54.087990 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:54.088044 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:56.154742 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:56.154784 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:24:58.205639 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:24:58.205693 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:00.271585 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:00.271709 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:02.328451 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:02.328559 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:04.385805 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:04.385848 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:06.437160 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:06.437213 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:08.488939 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:08.488993 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:10.541163 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:10.541214 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:12.593238 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:12.593291 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:14.663887 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:14.663930 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:16.747956 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:16.747998 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:18.802371 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:18.802430 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:20.848433 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:20.848476 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:22.901391 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:22.901435 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:24.972504 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:24.972548 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:27.026013 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:27.026065 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:29.084533 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:29.084604 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:31.133551 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:31.133632 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:33.189550 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:33.189620 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:35.241870 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:35.241933 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:37.290814 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:37.290868 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:39.341709 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:39.341788 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:41.404857 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:41.404929 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:43.457023 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:43.457072 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:45.535601 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:45.535645 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:47.586114 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:47.586169 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:49.643941 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:49.643996 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:51.698673 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:51.698729 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:53.755231 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:53.755274 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:55.810214 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:55.810282 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:57.870149 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:57.870192 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:25:59.921798 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:25:59.921855 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:01.973183 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:01.973237 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:04.025141 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:04.025220 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:06.077116 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:06.077178 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:08.148121 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:08.148242 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:10.205344 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:10.205389 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:12.288307 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:12.288355 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:14.353262 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:14.353378 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:16.416671 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:16.416800 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:18.481593 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:18.481750 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:20.549517 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:20.549597 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:22.609663 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:22.609740 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:24.691197 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:24.691313 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:26.747632 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:26.747678 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:28.812827 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:28.812894 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:30.886379 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:30.886495 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:32.938241 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:32.938283 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:34.995738 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:34.995897 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:37.050274 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:37.050390 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:39.102071 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:39.102112 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:41.169468 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:41.169513 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:43.222606 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:43.222699 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:45.299751 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:45.299860 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:47.354130 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:47.354187 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:49.406498 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:49.406594 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:51.476845 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:51.476963 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:53.525810 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:53.525863 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:55.578582 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:55.578696 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:57.640362 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:57.640447 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:26:59.693542 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:26:59.693603 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:01.749994 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:01.750150 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:03.823395 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:03.823434 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:05.898861 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:05.898902 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:07.957855 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:07.957911 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:10.013213 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:10.013275 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:12.065770 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:12.065857 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:14.117063 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:14.117117 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:16.205986 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:16.206033 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:18.266105 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:18.266147 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:20.319789 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:20.319833 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:22.380452 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:22.380566 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:24.438622 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:24.438668 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:26.491024 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:26.491098 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:28.547538 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:28.547584 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:30.603025 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:30.603121 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:32.659711 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:32.659771 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:34.717119 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:34.717175 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:36.774490 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:36.774533 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:38.875421 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:38.875542 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:40.947942 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:40.948058 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:43.019198 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:43.019319 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:45.080348 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:45.080394 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:47.135725 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:47.135810 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:49.191550 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:49.191611 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:51.247619 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:51.247664 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:53.300390 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:53.300434 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:55.436848 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:55.436911 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:57.485177 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:57.485219 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:27:59.541882 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:27:59.541931 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:01.606245 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:01.606374 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:03.667553 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:03.667600 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:05.769853 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:05.769898 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:07.825956 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:07.826010 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:09.870664 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:09.870708 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:11.923231 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:11.923290 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:13.991276 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:13.991322 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:16.056756 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:16.056874 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:18.112450 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:18.112507 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:20.165323 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:20.165375 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:22.220708 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:22.220768 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:24.268266 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:24.268308 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:26.322840 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:26.322974 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:28.381532 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:28.381657 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:30.451624 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:30.451732 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:32.502550 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:32.502643 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:34.554704 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:34.554750 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:36.619560 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:36.619603 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:38.677126 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:38.677176 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:40.732676 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:40.733332 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:42.785320 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:42.785354 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:44.840101 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:44.840155 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:46.898265 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:46.898308 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:48.935334 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:48.935376 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:50.992089 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:50.992214 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:53.044725 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:53.044766 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:55.166378 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:55.166481 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:57.219925 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:57.220031 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:28:59.285365 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:28:59.285469 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:29:01.337916 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:29:01.338022 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:29:03.408464 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:29:03.408507 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:29:05.489167 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:29:05.489275 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:29:07.555477 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:29:07.555520 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:29:09.606958 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:29:09.607066 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1
+W0116 17:29:11.656960 31899 trigger.cpp:102] Idle trigger trigged:
+W0116 17:29:11.657032 31899 trigger.cpp:128] can't kill the last executor of framework:hadoop the size of machine is 1

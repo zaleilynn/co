@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<configuration>
+    <framework>
+	<name>hadoop</name>
+        <quota>20</quota>
+        <command>bash</command>
+        <arguments>
+            <arg>/home/hadoop/hadoop-0.20.203.0/bin/hadoop</arg>
+            <arg>--config</arg>
+            <arg>/home/hadoop/hadoop-0.20.203.0/conf</arg>
+            <arg>tasktracker</arg>
+        </arguments>
+        <cpu>0.5</cpu>
+        <memory>300</memory>
+    </framework>
+</configuration>

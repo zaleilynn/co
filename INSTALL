@@ -1,0 +1,14 @@
+Ubuntu 11.10
+apt-get install libxerces-c-dev libapparmor-dev libcap-dev
+
+安装gflags-1.6.0.zip
+安装glogs-1.0.0.zip
+安装lxc-0.7.5
+    将lxc-0.7.5.patch拷贝到/usr/local/include/lxc中
+    然后patch -p0 < lxc-0.7.5.patch (主要是为c++编译)
+
+
+将third_part/hdfs中include和lib64相应拷贝到/usr/local/include/hdfs 和/usr/local/lib
+
+mkdir build
+cmake --CMAKE-INSTALL-PREFIX = .. ..
